@@ -1,0 +1,4 @@
+baseURL = 'http://justbaileym.github.io/'
+languageCode = 'en-gb'
+title = 'My New Hugo Site'
+theme = "PaperMod"
